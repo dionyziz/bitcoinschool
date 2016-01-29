@@ -1,0 +1,175 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+header {
+    background-image: url('images/corfu.jpg');
+    background-size: 1000px;
+}
+header .overlay {
+    text-shadow: 1px 1px 1px black;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.3);
+    text-transform: uppercase;
+    height: 500px;
+    position: relative;
+}
+header h1 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 400%;
+    font-weight: normal;
+    text-transform: none;
+    display: inline;
+    position: relative;
+    margin: 100px 0px;
+    padding: 0 80px 0 60px;
+    line-height: 450px;
+    white-space: nowrap;
+}
+header h1:after {
+    content: '';
+    width: 64px;
+    height: 64px;
+    display: block;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    background-image: url('images/bitcoin.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 64px 64px;
+}
+header ul {
+    list-style: none;
+    position: absolute;
+    bottom: 0;
+    padding: 0;
+    margin: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+header ul li {
+    float: left;
+    margin: 25px;
+}
+header a {
+    color: white;
+    text-decoration: none;
+}
+header a:hover {
+    color: #e10079;
+}
+header .about {
+    height: 500px;
+    position: relative;
+}
+header .location {
+    background-color: #f7931a;
+    background-repeat: no-repeat;
+    background-size: 900px;
+    background-position: top left;
+
+    height: 500px;
+    padding: 100px 20px 20px 20px;
+    font-weight: bold;
+    font-size: 140%;
+}
+.main {
+    background-color: #e10079;
+}
+section {
+    background-color: white;
+    min-height: 500px;
+    margin-left: 300px;
+    padding: 20px;
+    font-size: 120%;
+}
+h2 {
+    color: #e10079;
+    margin-top: 50px;
+}
+section strong {
+    font-weight: bold;
+}
+.avatar {
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    margin: 5px 15px 5px 0;
+    border-radius: 150px;
+    float: left;
+    clear: both;
+}
+.avatar img {
+    width: 150px;
+}
+.group {
+    margin-bottom: 20px;
+}
+.group:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.person h3 {
+    padding-top: 0px;
+    border-bottom: 1px solid #ccc;
+    margin-left: 50px;
+}
+.person p {
+    margin-left: 165px;
+}
+.sponsors {
+    background-color: #f7931a;
+    color: white;
+    margin: 0;
+    padding: 10px 0;
+    text-shadow: 1px 1px 1px black;
+}
+.sponsors h2 {
+    color: white;
+}
+.sponsors p {
+    font-size: 120%;
+}
+.sponsors a, .sponsors a:hover {
+    color: white;
+}
+.highlight {
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 50px;
+}
+.logos img {
+    padding: 25px;
+    vertical-align: middle;
+}
+.logos {
+    padding: 50px;
+    background-color: white;
+    text-align: center;
+}
+.copyright {
+    font-size: 90%;
+    text-align: center;
+    padding: 50px;
+}
+.copyright img {
+    display: block;
+    margin: auto;
+    padding: 50px;
+}
+a {
+    color: #f7931a;
+}
+a:hover {
+    color: #e10079;
+}
+.heart {
+    font-size: 120%;
+    text-shadow: 0px 0px 15px #e10079;
+    color: white;
+}
+img.embed {
+    width: 100%;
+}

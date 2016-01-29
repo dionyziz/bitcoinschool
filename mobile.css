@@ -1,0 +1,37 @@
+@media (max-width: 900px) {
+    header h1 {
+        margin: 0;
+        line-height: 100px;
+        text-align: center;
+    }
+    header .about.eight.columns {
+        width: 100%;
+        height: inherit;
+    }
+    header .location.four.columns {
+        width: 100%;
+        margin: 0;
+        text-align: center;
+    }
+    header ul {
+        position: static;
+        margin: 40px;
+        text-align: center;
+        padding: 15px;
+    }
+    header ul li {
+        display: block;
+        float: none;
+    }
+    header ul li a {
+        display: block;
+        padding: 5px;
+    }
+    header ul li a:hover {
+        color: white;
+        background-color: #e10079;
+    }
+    section {
+        margin: 0;
+    }
+}
