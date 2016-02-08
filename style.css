@@ -3,7 +3,7 @@ body {
 }
 header {
     background-image: url('images/corfu.jpg');
-    background-size: 1000px;
+    background-size: 70%;
 }
 header .overlay {
     text-shadow: 1px 1px 1px black;

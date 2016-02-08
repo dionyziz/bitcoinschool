@@ -3,6 +3,12 @@
         margin: 0;
         line-height: 100px;
         text-align: center;
+        padding: 0;
+        display: block;
+        font-size: 230%;
+    }
+    header h1:after {
+        background-image: none;
     }
     header .about.eight.columns {
         width: 100%;
@@ -33,5 +39,10 @@
     }
     section {
         margin: 0;
+    }
+}
+@media (max-width: 1200px) {
+    header {
+        background-size: 1000px;
     }
 }
