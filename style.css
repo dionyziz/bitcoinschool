@@ -38,6 +38,12 @@ header h1:after {
     background-position: right;
     background-size: 64px 64px;
 }
+header small {
+    position: relative;
+    top: -180px;
+    margin-left: 64px;
+    font-size: 112%;
+}
 header ul {
     list-style: none;
     position: absolute;
