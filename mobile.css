@@ -40,6 +40,11 @@
     section {
         margin: 0;
     }
+    img.iacr {
+        float: none;
+        margin: auto;
+        display: block;
+    }
 }
 @media (max-width: 1200px) {
     header {

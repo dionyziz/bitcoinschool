@@ -179,3 +179,7 @@ a:hover {
 img.embed {
     width: 100%;
 }
+img.iacr {
+    float: right;
+    margin: 15px;
+}
