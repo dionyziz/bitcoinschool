@@ -41,8 +41,8 @@ header h1:after {
 header small {
     position: relative;
     top: -180px;
-    margin-left: 64px;
-    font-size: 112%;
+    margin-left: 63px;
+    font-size: 119%;
 }
 header ul {
     list-style: none;
