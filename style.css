@@ -33,12 +33,17 @@ header h1:after {
     position: absolute;
     right: 0;
     bottom: 0;
-    background-image: url('images/bitcoin.png');
     background-repeat: no-repeat;
     background-position: right;
     background-size: 64px 64px;
 }
-header small {
+header small.over {
+    position: relative;
+    top: 180px;
+    margin-left: 63px;
+    font-size: 119%;
+}
+header small.under {
     position: relative;
     top: -180px;
     margin-left: 63px;

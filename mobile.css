@@ -37,6 +37,9 @@
         color: white;
         background-color: #e10079;
     }
+    header small {
+        display: none;
+    }
     section {
         margin: 0;
     }
