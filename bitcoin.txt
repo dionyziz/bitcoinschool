@@ -1,0 +1,24 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+We hereby confirm that the bitcoin address for receiving sponsorships for
+Bitcoin School (http://bitcoinschool.gr) is the following:
+
+1FXoHAMZKzS2xnoPC582wYutkSyaorhWJ6
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBCAAGBQJWvKh3AAoJELNinf07h9cds8gP/AlKkTwr/oOLp9B4u9R+upLp
+Ogc+DEqcBUogquVKrkUsVOhXJzugKCAXq7f40nwSug8Rlo3xPNDAEzyDW2JGmbUN
+dWXOPRRTwzThddt0WNUicvgUrEaKG+ow9odaBv1+7PxW9pNC4ytPGIF3qTWJveBf
+HBsqBXlDfhHGgv0hct8//t+cutS0RgOhiDggbaUgcsIshOwc8Q/QWKtHIZDxuLVz
+sV69gzpy0YCS9C0r9mqlqXBhm2G0cBU+NOS+IK3k9Oy4729yYoW3nlL2/CjHm5h0
+vppb9rj0XDbNRhNiJR4SqTz7Xakt3v0v1B4L4RBj/rLz36v/DjH+3AuKzPWAkcAL
+PlM/Sdv93+seoKBbxFxGZl39z7zkaiUp1hTXAwsWNQzaT0yXDtHUnOtonWcPyIFw
+pDSxZOPHml4zVrdYrqZ+mfWnDoTbPb0ImmCjoIMLVv7T9Xd3w2Y3TsQ5mBsSD55I
+NAQ42ypMyEAJK2G0jgNduBeM7UFdluKZyk1YSuAxKSBjBrpUovbyneQNdUQWi0ys
+Vu6Nq/Lc5NhddiEz4UxAD07cudXSEdqZVStX37r2jtEw7oIyQI1G3o1AwDB6oIr8
+Z8lMtOKt0SWwNGxOGz58+fusiv2dYc6GuAlTx003Qwwo2vHJ0x0z/nywEgX4ubg4
+PdUKQ7oIjF3/yURbsBy8
+=66Mn
+-----END PGP SIGNATURE-----
