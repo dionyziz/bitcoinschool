@@ -188,3 +188,13 @@ img.iacr {
     float: right;
     margin: 15px;
 }
+.donate {
+    border: 1px solid #f93;
+    padding: 10px;
+    font-weight: bold;
+    margin: 10px 0;
+    display: block;
+    width: 400px;
+    text-align: center;
+    background-color: #fec;
+}
