@@ -198,3 +198,11 @@ img.iacr {
     text-align: center;
     background-color: #fec;
 }
+table.schedule td:nth-child(1),
+table.schedule td:nth-child(2),
+table.schedule td:nth-child(3) {
+    padding: 5px;
+}
+table.schedule td:nth-child(3) {
+    text-align: right;
+}
