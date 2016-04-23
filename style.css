@@ -46,8 +46,9 @@ header small.over {
 header small.under {
     position: relative;
     top: -180px;
-    margin-left: 63px;
+    padding-left: 63px;
     font-size: 119%;
+    display: block;
 }
 header ul {
     list-style: none;
