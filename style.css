@@ -59,10 +59,21 @@ header ul {
     background-color: rgba(0, 0, 0, 0.5);
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
+    border-bottom: 1px solid transparent;
 }
 header ul li {
     float: left;
-    margin: 25px;
+    padding: 20px;
+    margin: 0;
+}
+header ul li.selected {
+    background-color: #e10079;
+}
+header ul li.selected:first-child {
+    border-top-left-radius: 5px;
+}
+header ul li.selected:last-child {
+    border-top-right-radius: 5px;
 }
 header a {
     color: white;
@@ -70,6 +81,9 @@ header a {
 }
 header a:hover {
     color: #e10079;
+}
+header li.selected a:hover {
+    color: white;
 }
 header .about {
     height: 500px;
