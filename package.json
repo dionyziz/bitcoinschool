@@ -1,0 +1,19 @@
+{
+  "name": "bitcoinschool",
+  "version": "1.0.0",
+  "description": "Bitoinschool.gr website",
+  "main": "behavior.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dionyziz/bitcoinschool.git"
+  },
+  "author": "Dionysis Zindros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dionyziz/bitcoinschool/issues"
+  },
+  "homepage": "https://github.com/dionyziz/bitcoinschool#readme"
+}

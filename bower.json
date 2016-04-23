@@ -1,0 +1,21 @@
+{
+  "name": "bitcoinschool",
+  "description": "Bitoinschool.gr website",
+  "main": "behavior.js",
+  "authors": [
+    "Dionysis Zindros"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dionyziz/bitcoinschool",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
