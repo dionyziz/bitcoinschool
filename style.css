@@ -100,6 +100,23 @@ header .location {
     padding: 100px 20px 20px 20px;
     font-weight: bold;
     font-size: 140%;
+
+    position: relative;
+}
+header .announce {
+    font-size: 70%;
+    text-transform: none;
+    position: absolute;
+    bottom: 0;
+    display: block;
+    margin: 10px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    text-shadow: none;
+}
+header .announce a {
+    color: black;
 }
 .main {
     background-color: #e10079;
