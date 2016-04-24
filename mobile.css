@@ -28,6 +28,8 @@
     header ul li {
         display: block;
         float: none;
+        padding: 0;
+        border-radius: 5px;
     }
     header ul li a {
         display: block;
@@ -36,6 +38,7 @@
     header ul li a:hover {
         color: white;
         background-color: #e10079;
+        border-radius: 5px;
     }
     header small {
         display: none;
