@@ -238,3 +238,9 @@ table.schedule td:nth-child(3) {
 table.schedule td:nth-child(3) {
     text-align: right;
 }
+.current-day {
+    background-color: #ffc;
+    padding: 15px;
+    border-radius: 11px;
+    border: 1px solid #cca;
+}
