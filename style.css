@@ -119,6 +119,12 @@ header .announce {
 header .announce a {
     color: black;
 }
+header .corfucoin {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 20px;
+}
 .main {
     background-color: #e10079;
 }
