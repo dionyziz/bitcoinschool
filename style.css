@@ -79,6 +79,7 @@ header ul li.selected:last-child {
 header a {
     color: white;
     text-decoration: none;
+    padding: 22px 0;
 }
 header a:hover {
     color: #e10079;
