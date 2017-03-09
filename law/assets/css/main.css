@@ -2086,6 +2086,10 @@
                 width: 98%;
             }
 
+                ul.feature-icons.one-column li span {
+                    display: block;
+                }
+
                 ul.feature-icons li:before {
                     -moz-osx-font-smoothing: grayscale;
                     -webkit-font-smoothing: antialiased;
