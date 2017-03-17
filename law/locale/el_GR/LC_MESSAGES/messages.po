@@ -1,0 +1,567 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"#-#-#-#-#  messages.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-17 20:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  messages-new.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  messages-new.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-18 00:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  messages.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-17 20:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: index.php:27 index.php:41 index.php:77
+msgid "Smart Contracts Day"
+msgstr "Ημερίδα για Έξυπνα Συμβόλαια"
+
+#: index.php:43
+msgid "Athens, Greece"
+msgstr "Αθήνα, Ελλάδα"
+
+#: index.php:47
+msgid "About"
+msgstr "Πληροφορίες"
+
+#: index.php:48
+msgid "Speakers"
+msgstr "Ομιλητές"
+
+#: index.php:49 index.php:268
+msgid "Venue"
+msgstr "Ξενοδοχείο"
+
+#: index.php:50 index.php:284
+msgid "Schedule"
+msgstr "Πρόγραμμα"
+
+#: index.php:78
+msgid ""
+"Cryptography & Law:\n"
+"                                           Information, Privacy and Smart\n"
+"                                           Contracts"
+msgstr ""
+"Κρυπτογραφία & Νόμος:\n"
+"                                           Δεδομένα, Ιδιωτικότητα και "
+"Έξυπνα\n"
+"                                           Συμβόλαια"
+
+#: index.php:82
+msgid ""
+"A single day in which expert\n"
+"                                    speakers will present talks on the\n"
+"                                    topic of Information, Privacy and\n"
+"                                    Smart Contracts in the\n"
+"                                    interdisciplinary field merging\n"
+"                                    Cryptography and Law."
+msgstr ""
+"Μία μέρα στην οποία ειδικευμένοι\n"
+"                                    ομιλητές θα παρουσιάσουν ομιλίες με "
+"θέμα\n"
+"                                    τα Δεδομένα, την Ιδιωτικότητα και τα\n"
+"                                    Έξυπνα Συμβόλαια στο διατμηματικό\n"
+"                                    τομέα που ενώνει την\n"
+"                                    Κρυπτογραφία και το Νόμο."
+
+#: index.php:89
+msgid ""
+"The talks will be high level targeting a\n"
+"                                    general public audience."
+msgstr ""
+"Οι ομιλίες θα είναι υψηλού επιπέδου και θα απευθύνονται\n"
+"                                    σε γενικό κοινό."
+
+#: index.php:92
+msgid ""
+"We have an excellent programme lined up\n"
+"                                    for our conference, and we hope to see "
+"you\n"
+"                                    in Athens."
+msgstr ""
+"Έχουμε ένα θαυμάσιο πρόγραμμα για το\n"
+"                                    συνέδριό μας και ελπίζουμε να σας\n"
+"                                    δούμε στην Αθήνα."
+
+#: index.php:97
+msgid "Tickets"
+msgstr "Εισιτήρια"
+
+#: index.php:98
+msgid ""
+"The conference is <strong>free of\n"
+"                                        charge</strong>. However, entrance "
+"to the venue is limited by\n"
+"                                        capacity to 150 people."
+msgstr ""
+"Το συνέδριο είναι <strong>δωρεάν</strong>. Όμως η είσοδος στο συνέδριο είναι "
+"περιορισμένη στα 150 άτομα."
+
+#: index.php:103
+msgid "We have increased the capacity of the venue to 150 tickets."
+msgstr "Μόλις αυξήσαμε τη χωρητικότητα του συνεδρίου σε 150 άτομα."
+
+#: index.php:106
+msgid "Please book soon to avoid disappointment."
+msgstr "Παρακαλούμε κλείστε νωρίς για να μην απογοητευτείτε."
+
+#: index.php:111
+msgid "Reserve your ticket"
+msgstr "Κλείστε το εισιτήριό σας"
+
+#: index.php:119
+msgid "Invited Speakers"
+msgstr "Προσκεκλημένοι Ομιλητές"
+
+#: index.php:121
+msgid ""
+"Four of the world's experts on Smart\n"
+"                                    Contracts will be speaking in our "
+"invited\n"
+"                                    talks capturing different aspects of\n"
+"                                    cryptography and law."
+msgstr ""
+"Τέσσερις από τους ανά τον κόσμο ειδικούς στα Έξυπνα Συμβόλαια θα μιλήσουν "
+"στις προσκεκλημένες ομιλίες που περιγράφουν διαφορετικές πτυχές της "
+"κρυπτογραφίας και του νόμου."
+
+#: index.php:130 index.php:132 index.php:289
+msgid "Aggelos Kiayias"
+msgstr "Άγγελος Κιαγιάς"
+
+#: index.php:133
+msgid ""
+"Prof. Aggelos Kiayias is Chair in Cybersecurity and Privacy and director of "
+"the Blockchain Technology Lab at the University of Edinburgh, UK, Associate "
+"Professor of Cryptography and Security and head of the Crypto.Sec group at "
+"the National and Kapodistrian University of Athens (on leave), and Professor "
+"in residence at the University of Connecticut. He is also the chief "
+"scientist at blockchain company IOHK."
+msgstr ""
+"Ο Καθηγητής Άγγελος Κιαγιάς είναι Πρόεδρος στην Κυβερνοασφάλεια και "
+"Ιδιωτικότητα και Διευθυντής του Εργαστηρίου για Τεχνολογία Blockchains στο "
+"Πανεπιστήμιο του Εδιμβούργου στη Μεγάλη Βρετανία, Αναπληρωτής Καθηγητής "
+"Κρυπτογραφίας και Ασφάλειας και επικεφαλής της ομάδας Crypto.Sec στο Εθνικό "
+"και Καποδιστριακό Πανεπιστήμιο Αθηνών (σε άδεια) και Καθηγητής στο "
+"Πανεπιστήμιο του Κονέκτικατ. Είναι επίσης επικεφαλής επιστήμονας στην "
+"εταιρεία blockchains IOHK."
+
+#: index.php:142
+msgid ""
+"Prof. Burkhard Schafer is Professor of Computational Legal Theory and "
+"director of the SCRIPT Centre for IT and IP law at the University of "
+"Edinburgh. He is also co-founder and co-director of the Joseph Bell Centre "
+"for Legal Reasoning and Forensic Statistics."
+msgstr ""
+"Ο Καθηγητής Burkhard Schafer είναι Καθηγητής στην Υπολογιστική Νομική Θεωρία "
+"και διευθυντής του Κέντρου SCRIPT για νομοθεσία περί Υπολογιστών και "
+"Πνευματικής Ιδιοκτησίας στο Πανεπιστήμιο του Εδιμβούργου. Είναι επίσης "
+"συνιδρυτής και διευθυντής στο Κέντρο Joseph Bell για Νομική Συλλογιστική και "
+"Εγκληματολογική Στατιστική."
+
+#: index.php:151
+msgid ""
+"Prof. Dr. Ing. Christoph\n"
+"                                                Sorge is the holder of the\n"
+"                                                juris professorship of "
+"legal\n"
+"                                                informatics, co-director of "
+"the\n"
+"                                                Institute of Law and\n"
+"                                                Informatics, and member of "
+"the\n"
+"                                                Center for IT Security, "
+"Privacy\n"
+"                                                and Accountability (CISPA) "
+"at\n"
+"                                                Saarland University. He is "
+"also\n"
+"                                                a senior fellow of the "
+"German\n"
+"                                                Research Institute for "
+"Public\n"
+"                                                 Administration Speyer."
+msgstr ""
+"Ο Καθηγητής Dr. Ing. Christoph\n"
+"                                                Sorge είναι κάτοχος του "
+"τίτλου του καθηγητή της νομικής "
+"πληροφορικής,                                                 διευθυντής στο "
+"Ινστιτούτο για το Νόμο και την "
+"Πληροφορική                                                 και μέλος του "
+"Κέντρου για την Ασφάλεια Υπολογιστών, Ιδιωτικότητας "
+"και                                                Ανάθεσης Ευθυνών (CISPA) "
+"στο\n"
+"                                                Πανεπιστήμιο του Saarland. "
+"Είναι επίσης                                                 ανώτερος "
+"συνεργάτης του Γερμανικού Ινστιτούτου Ερευνών Spreyer για τη Δημόσια "
+"Διοίκηση."
+
+#: index.php:172
+msgid ""
+"Peter is Director of\n"
+"                                                Research at Coin Center, "
+"the\n"
+"                                                leading non-profit research "
+"and\n"
+"                                                advocacy group focused on "
+"the\n"
+"                                                public policy issues facing\n"
+"                                                cryptocurrency technologies\n"
+"                                                such as Bitcoin. He is a\n"
+"                                                graduate of NYU Law, as well "
+"as\n"
+"                                                a self-taught designer and\n"
+"                                                coder.\n"
+"\n"
+"                                                He drafts the Center’s "
+"public\n"
+"                                                regulatory comments, and "
+"helps\n"
+"                                                shape its research agenda. "
+"He\n"
+"                                                has briefed policymakers "
+"and\n"
+"                                                regulatory staff around the\n"
+"                                                world on the subject of "
+"Bitcoin\n"
+"                                                regulation. Previously, he "
+"was\n"
+"                                                a Google Policy Fellow and\n"
+"                                                collaborated with various\n"
+"                                                digital rights organizations "
+"on\n"
+"                                                projects related to "
+"privacy,\n"
+"                                                surveillance, and digital\n"
+"                                                copyright law."
+msgstr ""
+"Ο Peter είναι Διευθυντής Ερευνών στο \n"
+"                                                Coin Center, το\n"
+"                                                μεγαλύτερο μη κερδοσκοπικό "
+"οργανισμό ερευνών και προώθησης που "
+"επικεντρώνεται                                                 στα θέματα "
+"δημόσιας πολιτικής που αντιμετωπίζουν οι τεχνολογίες "
+"κρυπτονομισμάτων                                                 όπως το "
+"Bitcoin. Είναι απόφοιτος \n"
+"                                                Νομικής του Πανεπιστημίου "
+"της Νέας Υόρκης, καθώς και "
+"αυτοδίδακτος                                                σχεδιαστής και "
+"προγραμματιστής.\n"
+"                                                Σχεδιάζει τις παρεμβάσεις "
+"δημόσιας διοίκησης του Κέντρου και βοηθάει να καθοριστεί η ερευνητική του "
+"ατζέντα.Έχει ενημερώσει νομοθέτες και διοικητικό προσωπικό ανά τον κόσμο "
+"πάνω στο θέμα της νομοθεσίας γύρω από το Bitcoin.\n"
+"                                                Παλαιότερα έχει "
+"υπάρξει                                                 Google Policy Fellow "
+"και\n"
+"                                                έχει συνεργαστεί με "
+"διάφορους οργανισμούς ψηφιακών δικαιωμάτων σε έργα σχετικά με την "
+"ιδιωτικότητα, την παρακολούθηση και τη νομοθεσία περί ψηφιακών πνευματικών "
+"δικαιωμάτων."
+
+#: index.php:205 index.php:315
+msgid "Writing Smart Contracts"
+msgstr "Γράφοντας Έξυπνα Συμβόλαια"
+
+#: index.php:207
+msgid ""
+"How do you actually write a smart\n"
+"                                    contract? And what is the future of "
+"smart\n"
+"                                    contract language? Two researchers in "
+"the\n"
+"                                    area  will present a short\n"
+"                                    introduction for non-experts:"
+msgstr ""
+"Πώς ακριβώς γράφει κανείς ένα έξυπνο συμβόλαιο; Και ποιο είναι το μέλλον της "
+"γλώσσας των έξυπνων συμβολαίων;                                    Δύο "
+"ερευνητές στον τομέα θα παρουσιάσουν μία εισαγωγή για μη ειδικούς:"
+
+#: index.php:220
+msgid ""
+"Darryl is a type theorist at\n"
+"                                                IOHK in San Francisco, "
+"United States"
+msgstr ""
+"Ο Darryl ειδικεύεται στη Θεωρία Τύπων στην IOHK στο San Francisco, Ηνωμένες "
+"Πολιτείες"
+
+#: index.php:227 index.php:229 index.php:313
+msgid "Dionysis Zindros"
+msgstr "Διονύσης Ζήνδρος"
+
+#: index.php:230
+msgid ""
+"Dionysis is a cryptography\n"
+"                                                PhD student at the "
+"University\n"
+"                                                of Athens in Greece."
+msgstr ""
+"Ο Διονύσης είναι διδακτορικός φοιτητής κρυπτογραφίας στο Πανεπιστήμιο Αθηνών."
+
+#: index.php:241
+msgid "Panel discussion"
+msgstr "Συζήτηση στρογγυλής τραπέζης"
+
+#: index.php:243
+msgid ""
+"What is the future of Cryptography and\n"
+"                                    Law? Insights from an academic, policy,\n"
+"                                    legal and industry perspective, "
+"moderated\n"
+"                                    by Aggelos Kiayias, with an Introduction "
+"by\n"
+"                                    Chalres Hoskinson CEO of IOHK, one of "
+"the\n"
+"                                    co-founders of Ethereum."
+msgstr ""
+"Ποιο είναι το μέλλον της Κρυπτογραφίας και του Νόμου; Ιδέες από τον "
+"ακαδημαϊκό χώρο, τον κρατικό χώρο καθώς και το χώρο της βιομηχανίας και "
+"συζήτηση προεδρευόμενη από τον Άγγελο Κιαγιά με μία Εισαγωγή από "
+"τον                                     Chalres Hoskinson που είναι "
+"διευθυντής της IOHK και ένας από τους ιδρυτές "
+"του                                     Ethereum."
+
+#: index.php:257
+msgid ""
+"Charles is the CEO of IOHK\n"
+"                                                in Colorado, United States"
+msgstr ""
+"Ο Charles είναι διευθυντής της IOHK\n"
+"                                                στο Κολοράντο των Ηνωμένων "
+"Πολιτειών"
+
+#: index.php:269
+msgid ""
+"The conference will be held at the\n"
+"                                    five-star <a href=\"http://"
+"divanicaravelhotel.com/\">Divani Caravel hotel</a> in central\n"
+"                                    Athens."
+msgstr ""
+"Το συνέδριο θα λάβει χώρα στο πεντάστερο "
+"ξενοδοχείο                                    <a href=\"http://"
+"divanicaravelhotel.com/\">Divani Caravel</a> στο κέντρο της Αθήνας."
+
+#: index.php:275
+msgid ""
+"The hotel is a 10-minute walk from the\n"
+"                                       Evangelismos metro station and also\n"
+"                                       accessible by car and bus."
+msgstr ""
+"Το ξενοδοχείο είναι 10 λεπτά περπάτημα από το μετρό του Ευαγγελισμού και "
+"προσβάσιμο επίσης με αυτοκίνητο ή λεωφορείο."
+
+#: index.php:287
+msgid "Registration"
+msgstr "Εγγραφές"
+
+#: index.php:291
+msgid ""
+"Cryptography\n"
+"                                                and Law, an Unexpected "
+"Encounter\n"
+"                                                that was Obvious all\n"
+"                                                Along"
+msgstr ""
+"Κρυπτογραφία και Νόμος: \n"
+"Μια Απροσδόκητη Συνάντηση που ήταν Προφανής Εξ' Αρχής"
+
+#: index.php:297 index.php:318
+msgid "Coffee break"
+msgstr "Καφές"
+
+#: index.php:300
+msgid ""
+"Blockchain assisted e-voting and the\n"
+"                                            law: Balancing transparency, "
+"secrecy\n"
+"                                            and inclusivity"
+msgstr ""
+"Ηλεκτρονικές ψηφοφορίες βασισμένες στο blockchain και "
+"νόμος:                                            Μία ισορροπία ανάμεσα στη "
+"διαφάνεια, τη μυστικότητα και τη συμμετοχικότητα"
+
+#: index.php:305
+msgid "Blockchains and Regulation: Why Open Matters"
+msgstr "Το Blockchain και ο Νόμος: Γιατί η Ανοιχτότητα Μετρά"
+
+#: index.php:307
+msgid "Lunch break"
+msgstr "Φαγητό"
+
+#: index.php:310
+msgid ""
+"Legal requirements for cryptographic security: Necessity, annoyance, or "
+"both? (tentative)"
+msgstr ""
+"Νομικές απαιτήσεις για κρυπτογραφική ασφάλεια: Αναγκαιότητα, ενόχληση ή και "
+"τα δύο; (ο τίτλος ενδέχεται να αλλάξει)"
+
+#: index.php:320
+msgid "Συζήτηση στρογγυλής τραπέζης:"
+msgstr ""
+
+#: index.php:321
+msgid "The future of Cryptography & Law"
+msgstr "Το μέλλον της Κρυπτογραφίας & του Νόμου"
+
+#: index.php:323
+msgid "Closing remarks"
+msgstr "Λήξη"
+
+#: index.php:328
+msgid ""
+"This event is made possible only\n"
+"                                            because of our wonderful "
+"funding\n"
+"                                            partners."
+msgstr "Αυτή η ημερίδα είναι εφικτή χάρη στους υπέροχους χρηματοδότες μας"
+
+#: index.php:331
+msgid "Thank you!"
+msgstr "Ευχαριστούμε!"
+
+#: index.php:336
+msgid "The ERC logo"
+msgstr "Το λογότυπο του ERC"
+
+#: index.php:348
+msgid "Open access"
+msgstr "Ανοιχτή πρόσβαση"
+
+#: index.php:350
+msgid ""
+"We believe everyone should have access\n"
+"                                    to knowledge. That's why admission to "
+"the\n"
+"                                    conference is completely free. However,\n"
+"                                    bitcoin donations are always welcome."
+msgstr ""
+"Πιστεύουμε ότι όλοι πρέπει να έχουν πρόσβαση στη γνώση. Γι' αυτό η είσοδος "
+"στο συνέδριο είναι εντελώς δωρεάν. Παρ' όλα αυτά, οι δωρεές σε bitcoin είναι "
+"πάντα ευπρόσδεκτες."
+
+#: index.php:356
+msgid ""
+"<a href=\"bitcoin:16ETtvZ8zMBMrJwWhpnhPdeMEQNnLBfZ5n\">Donate\n"
+"                                    bitcoin</a>\n"
+"                                    to enable us to organize more "
+"conferences\n"
+"                                    in the future.<br />We greatly "
+"appreciate your\n"
+"                                    support!"
+msgstr ""
+"<a href=\"bitcoin:16ETtvZ8zMBMrJwWhpnhPdeMEQNnLBfZ5n\">Δωρίστε\n"
+"                                    bitcoin</a>\n"
+"                                    για να μας επιτρέψετε να οργανώσουμε "
+"περισσότερα συνέδρια στο μέλλον.                                    <br /"
+">Εκτιμούμε ιδιαίτερα την υποστήριξή σας!"
+
+#: index.php:362
+msgid ""
+"We actively engage in open research and\n"
+"                                    are committed to providing open access "
+"to\n"
+"                                    everyone, even if they can't make it.\n"
+"                                    Videos of all talks and slides will be\n"
+"                                    published under a Creative Commons 4.0\n"
+"                                    Attribution license."
+msgstr ""
+"Δραστηριοποιούμαστε ενεργά στην ανοιχτή έρευνα και δεσμευόμαστε να "
+"προσφέρουμε ανοιχτή πρόσβαση σε όλους, ακόμα και αν δεν μπορούν να έρθουν. "
+"Οι βιντεοσκοπήσεις των ομιλιών και οι διαφάνειες θα δημοσιευθούν κάτω από "
+"την άδεια Creative Commons 4.0 Attribution."
+
+#: index.php:369
+msgid ""
+"We welcome diversity and are striving to\n"
+"                                    offer equal opportunities to all\n"
+"                                    participants.\n"
+"                                    We are dedicated to providing a\n"
+"                                    harassment-free conference experience "
+"for\n"
+"                                    everyone, regardless of gender, sexual\n"
+"                                    orientation, disability, physical\n"
+"                                    appearance, body size, race, or\n"
+"                                    religion."
+msgstr ""
+"Καλωσορίζουμε τη διαφορετικότητα και προσπαθούμε να προσφέρουμε ίσες "
+"ευκαιρίες σε όλους τους συμμετέχοντες. Δεσμευόμαστε να προνοήσουμε για μία "
+"συνεδριακή εμπειρία χωρίς παρενοχλήσεις. Μία συνεδριακή εμπειρία που θα "
+"είναι για όλους, ανεξαρτήτως φύλου, σεξουαλικού προσανατολισμού, αναπηρίας, "
+"εξωτερικής εμφάνισης, μεγέθους σώματος, εθνικότητας ή θρησκείας."
+
+#: index.php:381
+msgid "Free admission"
+msgstr "Δωρεάν είσοδος"
+
+#: index.php:385
+msgid "Everyone welcome"
+msgstr "Όλοι ευπρόσδεκτοι"
+
+#: new.php:319 index.php:320
+msgid "Panel discussion:"
+msgstr "Συζήτηση στρογγυλής τραπέζης:"
+
+#: new.php:743
+msgid "Cryptography & Security Lab"
+msgstr "Εργαστήριο Κρυπτογραφίας & Ασφάλειας"
+
+#: new.php:744
+msgid "University of Athens."
+msgstr "Πανεπιστήμιο Αθηνών."
+
+#: new.php:744
+msgid "Some rights reserved."
+msgstr "Ελεύθερο υλικό."
+
+#: new.php:745
+msgid ""
+"This conference is licensed under <a href=\"https://creativecommons.org/"
+"licenses/by/4.0/\">Creative\n"
+"                                          Commons 4.0 Attribution</a>."
+msgstr ""
+"Το συνέδριο έχει άδεια <a href=\"https://creativecommons.org/"
+"licenses/by/4.0/\">Creative\n"
+"                                          Commons 4.0 Attribution</a>."
+
+#: new.php:749
+msgid "Design: "
+msgstr "Σχεδιασμός: "
+
+#: new.php:750
+msgid "Photos: "
+msgstr "Φωτογραφίες: "
+
+#: new.php:753
+msgid "Icons: "
+msgstr "Εικονίδια: "
