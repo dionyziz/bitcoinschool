@@ -306,6 +306,7 @@
                                         </li>
                                         <li class=""><strong>12:00</strong>: Peter Van Valkenburgh
                                             <span><?= _('Blockchains and Regulation: Why Open Matters') ?></span>
+                                            <p><a href='assets/slides/valkenburgh.pptx'><?= _('Slides') ?></a></p>
                                         </li>
                                         <li class="fa-cutlery"><strong>12:45</strong>: <?= _('Lunch break') ?></li>
                                         <li class=""><strong>14:15</strong>:
