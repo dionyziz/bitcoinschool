@@ -294,6 +294,7 @@
                                                 that was Obvious all
                                                 Along') ?>
                                             </span>
+                                            <p><a href='assets/slides/kiayias.pdf'><?= _('Slides') ?></a></p>
                                         </li>
                                         <li class="fa-coffee"><strong>10:45</strong>: <?= _('Coffee break') ?></li>
                                         <li class=""><strong>11:15</strong>:
@@ -301,6 +302,7 @@
                                             <span><?= _('Blockchain assisted e-voting and the
                                             law: Balancing transparency, secrecy
                                             and inclusivity') ?></span>
+                                            <p><a href='assets/slides/schafer.pptx'><?= _('Slides') ?></a></p>
                                         </li>
                                         <li class=""><strong>12:00</strong>: Peter Van Valkenburgh
                                             <span><?= _('Blockchains and Regulation: Why Open Matters') ?></span>
@@ -309,12 +311,14 @@
                                         <li class=""><strong>14:15</strong>:
                                             Christoph Sorge:
                                             <span><?= _('Legal requirements for cryptographic security: Necessity, annoyance, or both? (tentative)') ?></span>
+                                            <p><a href='assets/slides/sorge.pdf'><?= _('Slides') ?></a></p>
                                         </li>
                                         <li class=""><strong>15:00</strong>:
                                             Darryl McAdams &amp; <?= _('Dionysis Zindros') ?>:
                                             <span>
                                                 <?= _('Writing Smart Contracts') ?>
                                             </span>
+                                            <p><a href='assets/slides/mcadams.pdf'><?= _('Darryl Slides') ?></a> - <a href='assets/slides/zindros.pdf'><?= _('Dionysis Slides') ?></a></p>
                                         </li>
                                         <li class="fa-coffee"><strong>16:00</strong>: <?= _('Coffee break') ?></li>
                                         <li class="fa-comments-o"><strong>16:30</strong>:
