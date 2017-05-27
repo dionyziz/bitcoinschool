@@ -302,7 +302,7 @@
                                             <span><?= _('Blockchain assisted e-voting and the
                                             law: Balancing transparency, secrecy
                                             and inclusivity') ?></span>
-                                            <p><a href='assets/slides/schafer.pptx'><?= _('Slides') ?></a></p>
+                                            <p><a href='assets/slides/schafer.pdf'><?= _('Slides') ?></a></p>
                                         </li>
                                         <li class=""><strong>12:00</strong>: Peter Van Valkenburgh
                                             <span><?= _('Blockchains and Regulation: Why Open Matters') ?></span>
