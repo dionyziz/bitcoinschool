@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-08 18:08+0300\n"
+"POT-Creation-Date: 2017-06-08 18:17+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -36,11 +36,11 @@ msgstr "Online προβολή"
 msgid "Speakers"
 msgstr "Ομιλητές"
 
-#: index.php:48 index.php:275
+#: index.php:48 index.php:278
 msgid "Venue"
 msgstr "Ξενοδοχείο"
 
-#: index.php:49 index.php:290
+#: index.php:49 index.php:293
 msgid "Schedule"
 msgstr "Πρόγραμμα"
 
@@ -71,73 +71,77 @@ msgstr ""
 "                                    τομέα που ενώνει την\n"
 "                                    Κρυπτογραφία και τα Νομικά."
 
-#: index.php:95 index.php:138 index.php:140 index.php:295
+#: index.php:93
+msgid "Watch whole conference as a YouTube playlist"
+msgstr "Δείτε όλο το συνέδριο ως λίστα στο YouTube"
+
+#: index.php:98 index.php:141 index.php:143 index.php:298
 msgid "Aggelos Kiayias"
 msgstr "Άγγελος Κιαγιάς"
 
-#: index.php:95
+#: index.php:98
 msgid ""
 "Cryptography and Law, an Unexpected Encounter that was Obvious all Along"
 msgstr ""
 "Κρυπτογραφία και Νομική, μια Απροσδόκητη Συνάντηση που ήταν προφανής εξ' "
 "αρχής"
 
-#: index.php:99
+#: index.php:102
 msgid "Burkhard Schafer"
 msgstr ""
 
-#: index.php:99
+#: index.php:102
 msgid "Blockchain assisted e-voting and the law"
 msgstr "Ηλεκτρονικές ψηφοφορίες βασισμένες στο blockchain και νομική επιστήμη"
 
-#: index.php:103
+#: index.php:106
 msgid "Peter Van Valkenburgh"
 msgstr ""
 
-#: index.php:103 index.php:313
+#: index.php:106 index.php:316
 msgid "Blockchains and Regulation: Why Open Matters"
 msgstr "Το Blockchain και τα Νομικά: Γιατί η Ανοιχτότητα Μετρά"
 
-#: index.php:107
+#: index.php:110
 msgid "Christoph Sorge"
 msgstr ""
 
-#: index.php:107 index.php:319
+#: index.php:110 index.php:322
 msgid ""
 "Legal requirements for cryptographic security: Necessity, annoyance, or both?"
 msgstr ""
 "Νομικές απαιτήσεις για κρυπτογραφική ασφάλεια: Αναγκαιότητα, ενόχληση ή και "
 "τα δύο;"
 
-#: index.php:111 index.php:235 index.php:237 index.php:323
+#: index.php:114 index.php:238 index.php:240 index.php:326
 msgid "Dionysis Zindros"
 msgstr "Διονύσης Ζήνδρος"
 
-#: index.php:111
+#: index.php:114
 msgid "Writing smart contracts in bitcoin"
 msgstr "Γράφοντας έξυπνα συμβόλαια στο bitcoin"
 
-#: index.php:115
+#: index.php:118
 msgid "Darryl McAdams"
 msgstr "Darryl McAdams"
 
-#: index.php:115
+#: index.php:118
 msgid "Writing Smart Contracts on Plutus "
 msgstr "Γράφοντας Έξυπνα Συμβόλαια στο Plutus"
 
-#: index.php:119
+#: index.php:122
 msgid "Panel"
 msgstr "Συζήτηση Στρογγυλής Τραπέζης"
 
-#: index.php:119 index.php:332
+#: index.php:122 index.php:335
 msgid "The future of Cryptography & Law"
 msgstr "Το μέλλον της Κρυπτογραφίας & της Νομικής"
 
-#: index.php:127
+#: index.php:130
 msgid "Invited Speakers"
 msgstr "Προσκεκλημένοι Ομιλητές"
 
-#: index.php:129
+#: index.php:132
 msgid ""
 "Four of the world's experts on Smart\n"
 "                                    Contracts spoke in our invited\n"
@@ -148,7 +152,7 @@ msgstr ""
 "προσκεκλημένες ομιλίες που περιγράφουν διαφορετικές πτυχές της κρυπτογραφίας "
 "και της νομικής επιστήμης."
 
-#: index.php:141
+#: index.php:144
 msgid ""
 "Prof. Aggelos Kiayias is Chair in Cybersecurity and Privacy and director of "
 "the Blockchain Technology Lab at the University of Edinburgh, UK, Associate "
@@ -165,7 +169,7 @@ msgstr ""
 "στο Πανεπιστήμιο του Κονέκτικατ. Είναι επίσης επικεφαλής επιστήμονας στην "
 "εταιρεία blockchains IOHK."
 
-#: index.php:150
+#: index.php:153
 msgid ""
 "Prof. Burkhard Schafer is Professor of Computational Legal Theory and "
 "director of the SCRIPT Centre for IT and IP law at the University of "
@@ -178,7 +182,7 @@ msgstr ""
 "συνιδρυτής και διευθυντής στο Κέντρο Joseph Bell για Νομική Συλλογιστική και "
 "Εγκληματολογική Στατιστική."
 
-#: index.php:159
+#: index.php:162
 msgid ""
 "Prof. Dr. Ing. Christoph\n"
 "                                                Sorge is the holder of the\n"
@@ -215,7 +219,7 @@ msgstr ""
 "συνεργάτης του Γερμανικού Ινστιτούτου Ερευνών Spreyer για τη Δημόσια "
 "Διοίκηση."
 
-#: index.php:180
+#: index.php:183
 msgid ""
 "Peter is Director of\n"
 "                                                Research at Coin Center, "
@@ -278,11 +282,11 @@ msgstr ""
 "ιδιωτικότητα, την παρακολούθηση και τη νομοθεσία περί ψηφιακών πνευματικών "
 "δικαιωμάτων."
 
-#: index.php:213 index.php:325
+#: index.php:216 index.php:328
 msgid "Writing Smart Contracts"
 msgstr "Γράφοντας Έξυπνα Συμβόλαια"
 
-#: index.php:215
+#: index.php:218
 msgid ""
 "How do you actually write a smart\n"
 "                                    contract? And what is the future of "
@@ -296,7 +300,7 @@ msgstr ""
 "γλώσσας των έξυπνων συμβολαίων;                                    Δύο "
 "ερευνητές στον τομέα θα παρουσιάσουν μία εισαγωγή για μη ειδικούς:"
 
-#: index.php:228
+#: index.php:231
 msgid ""
 "Darryl is a type theorist at\n"
 "                                                IOHK in San Francisco, "
@@ -305,7 +309,7 @@ msgstr ""
 "Ο Darryl ειδικεύεται στη Θεωρία Τύπων στην IOHK στο San Francisco, Ηνωμένες "
 "Πολιτείες"
 
-#: index.php:238
+#: index.php:241
 msgid ""
 "Dionysis is a cryptography\n"
 "                                                PhD student at the "
@@ -314,11 +318,11 @@ msgid ""
 msgstr ""
 "Ο Διονύσης είναι διδακτορικός φοιτητής κρυπτογραφίας στο Πανεπιστήμιο Αθηνών."
 
-#: index.php:249
+#: index.php:252
 msgid "Panel discussion"
 msgstr "Συζήτηση στρογγυλής τραπέζης"
 
-#: index.php:251
+#: index.php:254
 msgid ""
 "What is the future of Cryptography and\n"
 "                                    Law? Insights from an academic, policy,\n"
@@ -337,7 +341,7 @@ msgstr ""
 "διευθυντής της IOHK και ένας από τους ιδρυτές "
 "του                                     Ethereum."
 
-#: index.php:265
+#: index.php:268
 msgid ""
 "Charles is the CEO of IOHK\n"
 "                                                in Colorado, United States"
@@ -346,7 +350,7 @@ msgstr ""
 "                                                στο Κολοράντο των Ηνωμένων "
 "Πολιτειών"
 
-#: index.php:276
+#: index.php:279
 msgid ""
 "The conference was held at the\n"
 "                                    five-star <a href=\"http://"
@@ -357,7 +361,7 @@ msgstr ""
 "ξενοδοχείο                                    <a href=\"http://"
 "divanicaravelhotel.com/\">Divani Caravel</a> στο κέντρο της Αθήνας."
 
-#: index.php:282
+#: index.php:285
 msgid ""
 "The hotel is a 10-minute walk from the\n"
 "                                       Evangelismos metro station and also\n"
@@ -366,11 +370,11 @@ msgstr ""
 "Το ξενοδοχείο είναι 10 λεπτά περπάτημα από το μετρό του Ευαγγελισμού και "
 "προσβάσιμο επίσης με αυτοκίνητο ή λεωφορείο."
 
-#: index.php:293
+#: index.php:296
 msgid "Registration"
 msgstr "Εγγραφές"
 
-#: index.php:297
+#: index.php:300
 msgid ""
 "Cryptography\n"
 "                                                and Law, an Unexpected "
@@ -381,15 +385,15 @@ msgstr ""
 "Κρυπτογραφία και Νομική Επιστήμη: \n"
 "Μια Απροσδόκητη Συνάντηση που ήταν Προφανής Εξ' Αρχής"
 
-#: index.php:302 index.php:310 index.php:314 index.php:320
+#: index.php:305 index.php:313 index.php:317 index.php:323
 msgid "Slides"
 msgstr "Διαφάνειες"
 
-#: index.php:304 index.php:329
+#: index.php:307 index.php:332
 msgid "Coffee break"
 msgstr "Καφές"
 
-#: index.php:307
+#: index.php:310
 msgid ""
 "Blockchain assisted e-voting and the\n"
 "                                            law: Balancing transparency, "
@@ -400,27 +404,27 @@ msgstr ""
 "επιστήμη:                                            Μία ισορροπία ανάμεσα "
 "στη διαφάνεια, τη μυστικότητα και τη συμμετοχικότητα"
 
-#: index.php:316
+#: index.php:319
 msgid "Lunch break"
 msgstr "Φαγητό"
 
-#: index.php:327
+#: index.php:330
 msgid "Darryl Slides"
 msgstr "Διαφάνειες του Darryl"
 
-#: index.php:327
+#: index.php:330
 msgid "Dionysis Slides"
 msgstr "Διαφάνειες του Διονύση"
 
-#: index.php:331
+#: index.php:334
 msgid "Panel discussion:"
 msgstr "Συζήτηση στρογγυλής τραπέζης:"
 
-#: index.php:334
+#: index.php:337
 msgid "Closing remarks"
 msgstr "Λήξη"
 
-#: index.php:339
+#: index.php:342
 msgid ""
 "This event is made possible only\n"
 "                                            because of our wonderful "
@@ -428,19 +432,19 @@ msgid ""
 "                                            partners."
 msgstr "Αυτή η ημερίδα είναι εφικτή χάρη στους υπέροχους χρηματοδότες μας"
 
-#: index.php:342
+#: index.php:345
 msgid "Thank you!"
 msgstr "Ευχαριστούμε!"
 
-#: index.php:347
+#: index.php:350
 msgid "The ERC logo"
 msgstr "Το λογότυπο του ERC"
 
-#: index.php:359
+#: index.php:362
 msgid "Open access"
 msgstr "Ανοιχτή πρόσβαση"
 
-#: index.php:361
+#: index.php:364
 msgid ""
 "We believe everyone should have access\n"
 "                                    to knowledge. That's why admission to "
@@ -453,7 +457,7 @@ msgstr ""
 "στο συνέδριο ήταν εντελώς δωρεάν. Οι δωρεές σε bitcoin για επόμενα συνέδρια "
 "είναι πάντα ευπρόσδεκτες."
 
-#: index.php:367
+#: index.php:370
 msgid ""
 "<a href=\"bitcoin:16ETtvZ8zMBMrJwWhpnhPdeMEQNnLBfZ5n\">Donate\n"
 "                                    bitcoin</a>\n"
@@ -469,7 +473,7 @@ msgstr ""
 "περισσότερα συνέδρια στο μέλλον.                                    <br /"
 ">Εκτιμούμε ιδιαίτερα την υποστήριξή σας!"
 
-#: index.php:373
+#: index.php:376
 msgid ""
 "We actively engage in open research and\n"
 "                                    are committed to providing open access "
@@ -484,7 +488,7 @@ msgstr ""
 "Οι βιντεοσκοπήσεις των ομιλιών και οι διαφάνειες δημοσιεύονται κάτω από την "
 "άδεια Creative Commons 4.0 Attribution."
 
-#: index.php:380
+#: index.php:383
 msgid ""
 "We welcome diversity and are striving to\n"
 "                                    offer equal opportunities to all\n"
@@ -503,27 +507,27 @@ msgstr ""
 "είναι για όλους, ανεξαρτήτως φύλου, σεξουαλικού προσανατολισμού, αναπηρίας, "
 "εξωτερικής εμφάνισης, μεγέθους σώματος, εθνικότητας ή θρησκείας."
 
-#: index.php:392
+#: index.php:395
 msgid "Free admission"
 msgstr "Δωρεάν είσοδος"
 
-#: index.php:396
+#: index.php:399
 msgid "Everyone welcome"
 msgstr "Όλοι ευπρόσδεκτοι"
 
-#: index.php:407
+#: index.php:410
 msgid "Cryptography & Security Lab"
 msgstr "Εργαστήριο Κρυπτογραφίας & Ασφάλειας"
 
-#: index.php:408
+#: index.php:411
 msgid "University of Athens."
 msgstr "Πανεπιστήμιο Αθηνών."
 
-#: index.php:408
+#: index.php:411
 msgid "Some rights reserved."
 msgstr "Ελεύθερο υλικό."
 
-#: index.php:409
+#: index.php:412
 msgid ""
 "This conference is licensed under <a href=\"https://creativecommons.org/"
 "licenses/by/4.0/\">Creative\n"
@@ -533,15 +537,15 @@ msgstr ""
 "\">Creative\n"
 "                                          Commons 4.0 Attribution</a>."
 
-#: index.php:413
+#: index.php:416
 msgid "Design: "
 msgstr "Σχεδιασμός: "
 
-#: index.php:414
+#: index.php:417
 msgid "Photos: "
 msgstr "Φωτογραφίες: "
 
-#: index.php:417
+#: index.php:420
 msgid "Icons: "
 msgstr "Εικονίδια: "
 
