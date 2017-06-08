@@ -316,7 +316,7 @@
                                         <li class="fa-cutlery"><strong>12:45</strong>: <?= _('Lunch break') ?></li>
                                         <li class=""><strong>14:15</strong>:
                                             Christoph Sorge:
-                                            <span><?= _('Legal requirements for cryptographic security: Necessity, annoyance, or both? (tentative)') ?></span>
+                                            <span><?= _('Legal requirements for cryptographic security: Necessity, annoyance, or both?') ?></span>
                                             <p><a href='assets/slides/sorge.pdf'><?= _('Slides') ?></a></p>
                                         </li>
                                         <li class=""><strong>15:00</strong>:
