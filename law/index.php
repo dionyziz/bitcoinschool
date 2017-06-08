@@ -88,8 +88,11 @@
                                     Cryptography and Law.') ?></p>
 
                                     <p>
-                                        <strong><a href='https://www.youtube.com/watch?v=zbeoavjJoko&list=PLIBqjv2K77LUz-HTimrEsMjEXvc04WYsw'>
-                                        Watch whole conference as a YouTube playlist</a></strong>.
+                                        <strong>
+                                            <a href='https://www.youtube.com/watch?v=zbeoavjJoko&list=PLIBqjv2K77LUz-HTimrEsMjEXvc04WYsw' class='fa fa-youtube-play'>
+                                                <?= _('Watch whole conference as a YouTube playlist' ) ?>
+                                            </a>
+                                        </strong>
                                     </p>
 
                                     <h3><?= _('Aggelos Kiayias') ?>:<br /><?= _('Cryptography and Law, an Unexpected Encounter that was Obvious all Along') ?></h3>
