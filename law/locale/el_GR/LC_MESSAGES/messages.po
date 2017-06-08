@@ -30,7 +30,7 @@ msgstr "Αθήνα, Ελλάδα"
 
 #: index.php:46
 msgid "Watch online"
-msgstr ""
+msgstr "Online προβολή"
 
 #: index.php:47
 msgid "Speakers"
@@ -127,7 +127,7 @@ msgstr "Γράφοντας Έξυπνα Συμβόλαια στο Plutus"
 
 #: index.php:119
 msgid "Panel"
-msgstr ""
+msgstr "Συζήτηση Στρογγυλής Τραπέζης"
 
 #: index.php:119 index.php:332
 msgid "The future of Cryptography & Law"
