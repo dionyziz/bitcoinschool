@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-08 17:47+0300\n"
+"POT-Creation-Date: 2017-06-08 18:08+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,18 +26,18 @@ msgid "Athens, Greece"
 msgstr ""
 
 #: index.php:46
-msgid "About"
+msgid "Watch online"
 msgstr ""
 
 #: index.php:47
 msgid "Speakers"
 msgstr ""
 
-#: index.php:48 index.php:282
+#: index.php:48 index.php:275
 msgid "Venue"
 msgstr ""
 
-#: index.php:49 index.php:297
+#: index.php:49 index.php:290
 msgid "Schedule"
 msgstr ""
 
@@ -58,59 +58,69 @@ msgid ""
 "                                    Cryptography and Law."
 msgstr ""
 
-#: index.php:90
-msgid "Watch the programme online now"
+#: index.php:95 index.php:138 index.php:140 index.php:295
+msgid "Aggelos Kiayias"
 msgstr ""
 
-#: index.php:97
+#: index.php:95
 msgid ""
-"Aggelos Kiayias: Cryptography and Law, an Unexpected Encounter that was "
-"Obvious all Along"
+"Cryptography and Law, an Unexpected Encounter that was Obvious all Along"
 msgstr ""
 
-#: index.php:101
-msgid "Burkhard Schafer: Blockchain assisted e-voting and the law"
+#: index.php:99
+msgid "Burkhard Schafer"
 msgstr ""
 
-#: index.php:105
-msgid "Peter Van Valkenburgh: Blockchains and Regulation: Why Open Matters"
+#: index.php:99
+msgid "Blockchain assisted e-voting and the law"
 msgstr ""
 
-#: index.php:109
+#: index.php:103
+msgid "Peter Van Valkenburgh"
+msgstr ""
+
+#: index.php:103 index.php:313
+msgid "Blockchains and Regulation: Why Open Matters"
+msgstr ""
+
+#: index.php:107
+msgid "Christoph Sorge"
+msgstr ""
+
+#: index.php:107 index.php:319
 msgid ""
-"Christoph Sorge: Legal requirements for cryptographic security: Necessity, "
-"annoyance, or both?"
+"Legal requirements for cryptographic security: Necessity, annoyance, or both?"
 msgstr ""
 
-#: index.php:113
-msgid "Dionysis Zindros: Writing smart contracts in bitcoin"
+#: index.php:111 index.php:235 index.php:237 index.php:323
+msgid "Dionysis Zindros"
 msgstr ""
 
-#: index.php:117
-msgid "Darryl McAdams: Writing Smart Contracts on Plutus "
+#: index.php:111
+msgid "Writing smart contracts in bitcoin"
 msgstr ""
 
-#: index.php:121
-msgid "Panel: The future of Cryptography &amp; Law"
+#: index.php:115
+msgid "Darryl McAdams"
 msgstr ""
 
-#: index.php:125
-msgid ""
-"The talks are high level targeting a\n"
-"                                    general public audience."
+#: index.php:115
+msgid "Writing Smart Contracts on Plutus "
 msgstr ""
 
-#: index.php:128
-msgid ""
-"The conference had an excellent programme. The talks are now available "
-"online."
+#: index.php:119
+msgid "Panel"
 msgstr ""
 
-#: index.php:134
+#: index.php:119 index.php:332
+msgid "The future of Cryptography & Law"
+msgstr ""
+
+#: index.php:127
 msgid "Invited Speakers"
 msgstr ""
 
-#: index.php:136
+#: index.php:129
 msgid ""
 "Four of the world's experts on Smart\n"
 "                                    Contracts spoke in our invited\n"
@@ -118,11 +128,7 @@ msgid ""
 "                                    cryptography and law."
 msgstr ""
 
-#: index.php:145 index.php:147 index.php:302
-msgid "Aggelos Kiayias"
-msgstr ""
-
-#: index.php:148
+#: index.php:141
 msgid ""
 "Prof. Aggelos Kiayias is Chair in Cybersecurity and Privacy and director of "
 "the Blockchain Technology Lab at the University of Edinburgh, UK, Associate "
@@ -132,7 +138,7 @@ msgid ""
 "scientist at blockchain company IOHK."
 msgstr ""
 
-#: index.php:157
+#: index.php:150
 msgid ""
 "Prof. Burkhard Schafer is Professor of Computational Legal Theory and "
 "director of the SCRIPT Centre for IT and IP law at the University of "
@@ -140,7 +146,7 @@ msgid ""
 "for Legal Reasoning and Forensic Statistics."
 msgstr ""
 
-#: index.php:166
+#: index.php:159
 msgid ""
 "Prof. Dr. Ing. Christoph\n"
 "                                                Sorge is the holder of the\n"
@@ -164,7 +170,7 @@ msgid ""
 "                                                 Administration Speyer."
 msgstr ""
 
-#: index.php:187
+#: index.php:180
 msgid ""
 "Peter is Director of\n"
 "                                                Research at Coin Center, "
@@ -204,11 +210,11 @@ msgid ""
 "                                                copyright law."
 msgstr ""
 
-#: index.php:220 index.php:332
+#: index.php:213 index.php:325
 msgid "Writing Smart Contracts"
 msgstr ""
 
-#: index.php:222
+#: index.php:215
 msgid ""
 "How do you actually write a smart\n"
 "                                    contract? And what is the future of "
@@ -219,18 +225,14 @@ msgid ""
 "                                    introduction for non-experts:"
 msgstr ""
 
-#: index.php:235
+#: index.php:228
 msgid ""
 "Darryl is a type theorist at\n"
 "                                                IOHK in San Francisco, "
 "United States"
 msgstr ""
 
-#: index.php:242 index.php:244 index.php:330
-msgid "Dionysis Zindros"
-msgstr ""
-
-#: index.php:245
+#: index.php:238
 msgid ""
 "Dionysis is a cryptography\n"
 "                                                PhD student at the "
@@ -238,11 +240,11 @@ msgid ""
 "                                                of Athens in Greece."
 msgstr ""
 
-#: index.php:256
+#: index.php:249
 msgid "Panel discussion"
 msgstr ""
 
-#: index.php:258
+#: index.php:251
 msgid ""
 "What is the future of Cryptography and\n"
 "                                    Law? Insights from an academic, policy,\n"
@@ -255,13 +257,13 @@ msgid ""
 "                                    co-founders of Ethereum."
 msgstr ""
 
-#: index.php:272
+#: index.php:265
 msgid ""
 "Charles is the CEO of IOHK\n"
 "                                                in Colorado, United States"
 msgstr ""
 
-#: index.php:283
+#: index.php:276
 msgid ""
 "The conference was held at the\n"
 "                                    five-star <a href=\"http://"
@@ -269,18 +271,18 @@ msgid ""
 "                                    Athens."
 msgstr ""
 
-#: index.php:289
+#: index.php:282
 msgid ""
 "The hotel is a 10-minute walk from the\n"
 "                                       Evangelismos metro station and also\n"
 "                                       accessible by car and bus."
 msgstr ""
 
-#: index.php:300
+#: index.php:293
 msgid "Registration"
 msgstr ""
 
-#: index.php:304
+#: index.php:297
 msgid ""
 "Cryptography\n"
 "                                                and Law, an Unexpected "
@@ -289,15 +291,15 @@ msgid ""
 "                                                Along"
 msgstr ""
 
-#: index.php:309 index.php:317 index.php:321 index.php:327
+#: index.php:302 index.php:310 index.php:314 index.php:320
 msgid "Slides"
 msgstr ""
 
-#: index.php:311 index.php:336
+#: index.php:304 index.php:329
 msgid "Coffee break"
 msgstr ""
 
-#: index.php:314
+#: index.php:307
 msgid ""
 "Blockchain assisted e-voting and the\n"
 "                                            law: Balancing transparency, "
@@ -305,41 +307,27 @@ msgid ""
 "                                            and inclusivity"
 msgstr ""
 
-#: index.php:320
-msgid "Blockchains and Regulation: Why Open Matters"
-msgstr ""
-
-#: index.php:323
+#: index.php:316
 msgid "Lunch break"
 msgstr ""
 
-#: index.php:326
-msgid ""
-"Legal requirements for cryptographic security: Necessity, annoyance, or "
-"both? (tentative)"
-msgstr ""
-
-#: index.php:334
+#: index.php:327
 msgid "Darryl Slides"
 msgstr ""
 
-#: index.php:334
+#: index.php:327
 msgid "Dionysis Slides"
 msgstr ""
 
-#: index.php:338
+#: index.php:331
 msgid "Panel discussion:"
 msgstr ""
 
-#: index.php:339
-msgid "The future of Cryptography & Law"
-msgstr ""
-
-#: index.php:341
+#: index.php:334
 msgid "Closing remarks"
 msgstr ""
 
-#: index.php:346
+#: index.php:339
 msgid ""
 "This event is made possible only\n"
 "                                            because of our wonderful "
@@ -347,19 +335,19 @@ msgid ""
 "                                            partners."
 msgstr ""
 
-#: index.php:349
+#: index.php:342
 msgid "Thank you!"
 msgstr ""
 
-#: index.php:354
+#: index.php:347
 msgid "The ERC logo"
 msgstr ""
 
-#: index.php:366
+#: index.php:359
 msgid "Open access"
 msgstr ""
 
-#: index.php:368
+#: index.php:361
 msgid ""
 "We believe everyone should have access\n"
 "                                    to knowledge. That's why admission to "
@@ -369,7 +357,7 @@ msgid ""
 "always welcome."
 msgstr ""
 
-#: index.php:374
+#: index.php:367
 msgid ""
 "<a href=\"bitcoin:16ETtvZ8zMBMrJwWhpnhPdeMEQNnLBfZ5n\">Donate\n"
 "                                    bitcoin</a>\n"
@@ -380,7 +368,7 @@ msgid ""
 "                                    support!"
 msgstr ""
 
-#: index.php:380
+#: index.php:373
 msgid ""
 "We actively engage in open research and\n"
 "                                    are committed to providing open access "
@@ -391,7 +379,7 @@ msgid ""
 "                                    Attribution license."
 msgstr ""
 
-#: index.php:387
+#: index.php:380
 msgid ""
 "We welcome diversity and are striving to\n"
 "                                    offer equal opportunities to all\n"
@@ -405,41 +393,41 @@ msgid ""
 "                                    religion."
 msgstr ""
 
-#: index.php:399
+#: index.php:392
 msgid "Free admission"
 msgstr ""
 
-#: index.php:403
+#: index.php:396
 msgid "Everyone welcome"
 msgstr ""
 
-#: index.php:414
+#: index.php:407
 msgid "Cryptography & Security Lab"
 msgstr ""
 
-#: index.php:415
+#: index.php:408
 msgid "University of Athens."
 msgstr ""
 
-#: index.php:415
+#: index.php:408
 msgid "Some rights reserved."
 msgstr ""
 
-#: index.php:416
+#: index.php:409
 msgid ""
 "This conference is licensed under <a href=\"https://creativecommons.org/"
 "licenses/by/4.0/\">Creative\n"
 "                                          Commons 4.0 Attribution</a>."
 msgstr ""
 
-#: index.php:420
+#: index.php:413
 msgid "Design: "
 msgstr ""
 
-#: index.php:421
+#: index.php:414
 msgid "Photos: "
 msgstr ""
 
-#: index.php:424
+#: index.php:417
 msgid "Icons: "
 msgstr ""

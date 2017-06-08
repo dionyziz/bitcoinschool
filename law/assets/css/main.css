@@ -1699,6 +1699,11 @@
         text-align: center;
     }
 
+    section.embed h3 {
+        margin-top: 70pt;
+        border-bottom: 1px solid #ccc;
+    }
+
     header p {
         color: #aaa;
         position: relative;
