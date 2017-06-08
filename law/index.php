@@ -81,7 +81,7 @@
                                            Contracts')) ?></p>
                                     </header>
                                     <p><?= _('A single day in which expert
-                                    speakers will present talks on the
+                                    speakers presented talks on the
                                     topic of Information, Privacy and
                                     Smart Contracts in the
                                     interdisciplinary field merging
@@ -90,37 +90,16 @@
                                     <p><?= _('The talks will be high level targeting a
                                     general public audience.') ?></p>
 
-                                    <p><?= _('We have an excellent programme lined up
-                                    for our conference, and we hope to see you
-                                    in Athens.') ?></p>
-                                </div>
-                                <div class="container">
-                                <h3><?= _('Tickets') ?></h3>
-                                <p><?= _('The conference is <strong>free of
-                                        charge</strong>. However, entrance to the venue is limited by
-                                        capacity to 150 people.') ?>
-                                        <strong>
-                                            <span style='color: #4acaa8'>
-                                                <?= _('We have increased the capacity of the venue to 150 tickets.') ?>
-                                            </span>
-                                        </strong>
-                                        <?= _('Please book soon to avoid disappointment.') ?>
-                                        </p>
-                                        <ul class="feature-icons">
-                                            <li class="fa-ticket"><a
-                                                    href='https://www.eventbrite.com/e/smart-contracts-day-tickets-32639710252'>
-                                                    <strong><?= _('Reserve your ticket') ?></strong></a></li>
-                                        </ul>
+                                    <p><?= _('The conference had an excellent programme. The talks are now available online.') ?></p>
                                 </div>
                             </section>
 
-                        <!-- Two -->
                             <section id="two">
                                 <div class="container">
                                     <h3><?= _('Invited Speakers') ?></h3>
 
                                     <p><?= _('Four of the world\'s experts on Smart
-                                    Contracts will be speaking in our invited
+                                    Contracts spoke in our invited
                                     talks capturing different aspects of
                                     cryptography and law.') ?></p>
 
@@ -263,11 +242,10 @@
                                 </div>
                             </section>
 
-                        <!-- Three -->
                             <section id="three">
                                 <div class="container">
                                     <h3><?= _('Venue') ?></h3>
-                                    <p><?= _('The conference will be held at the
+                                    <p><?= _('The conference was held at the
                                     five-star <a href="http://divanicaravelhotel.com/">Divani Caravel hotel</a> in central
                                     Athens.') ?></p>
                                     <img src="images/divani.jpg" alt="Divani
@@ -279,7 +257,6 @@
                                 </div>
                             </section>
 
-                        <!-- Four -->
                             <section id="four">
                                 <div class="container">
                                     <h3><?= _('Schedule') ?></h3>
@@ -355,8 +332,8 @@
 
                                     <p><?= _('We believe everyone should have access
                                     to knowledge. That\'s why admission to the
-                                    conference is completely free. However,
-                                    bitcoin donations are always welcome.') ?></p>
+                                    conference was completely free. Bitcoin
+                                    donations for future conferences are always welcome.') ?></p>
 
                                     <p class='donation'>
                                     <?= _('<a href="bitcoin:16ETtvZ8zMBMrJwWhpnhPdeMEQNnLBfZ5n">Donate
@@ -368,7 +345,7 @@
                                     <p><?= _('We actively engage in open research and
                                     are committed to providing open access to
                                     everyone, even if they can\'t make it.
-                                    Videos of all talks and slides will be
+                                    Videos of all talks and slides are
                                     published under a Creative Commons 4.0
                                     Attribution license.') ?></p>
 

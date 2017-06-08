@@ -3,12 +3,11 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-18 01:07+0300\n"
+"POT-Creation-Date: 2017-06-08 17:47+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -37,11 +36,11 @@ msgstr "Πληροφορίες"
 msgid "Speakers"
 msgstr "Ομιλητές"
 
-#: index.php:48 index.php:269
+#: index.php:48 index.php:282
 msgid "Venue"
 msgstr "Ξενοδοχείο"
 
-#: index.php:49 index.php:285
+#: index.php:49 index.php:297
 msgid "Schedule"
 msgstr "Πρόγραμμα"
 
@@ -59,14 +58,14 @@ msgstr ""
 #: index.php:83
 msgid ""
 "A single day in which expert\n"
-"                                    speakers will present talks on the\n"
+"                                    speakers presented talks on the\n"
 "                                    topic of Information, Privacy and\n"
 "                                    Smart Contracts in the\n"
 "                                    interdisciplinary field merging\n"
 "                                    Cryptography and Law."
 msgstr ""
 "Μία μέρα στην οποία ειδικευμένοι\n"
-"                                    ομιλητές θα παρουσιάσουν ομιλίες με "
+"                                    ομιλητές παρουσίασαν ομιλίες με "
 "θέμα\n"
 "                                    τα Δεδομένα, την Ιδιωτικότητα και τα\n"
 "                                    Έξυπνα Συμβόλαια στο διατμηματικό\n"
@@ -74,71 +73,82 @@ msgstr ""
 "                                    Κρυπτογραφία και τα Νομικά."
 
 #: index.php:90
+msgid "Watch the programme online now"
+msgstr "Παρακολουθήστε το πρόγραμμα online τώρα (στα Αγγλικά)"
+
+#: index.php:97
 msgid ""
-"The talks will be high level targeting a\n"
+"Aggelos Kiayias: Cryptography and Law, an Unexpected Encounter that was "
+"Obvious all Along"
+msgstr "Άγγελος Κιαγιάς: Κρυπτογραφία και Νομική, μια Απροσδόκητη Συνάντηση που "
+"ήταν προφανής εξ' αρχής"
+
+#: index.php:101
+msgid "Burkhard Schafer: Blockchain assisted e-voting and the law"
+msgstr "Burkhard Schafer: "
+"Ηλεκτρονικές ψηφοφορίες βασισμένες στο blockchain και νομική "
+"επιστήμη:                                            Μία ισορροπία ανάμεσα "
+"στη διαφάνεια, τη μυστικότητα και τη συμμετοχικότητα"
+
+#: index.php:105
+msgid "Peter Van Valkenburgh: Blockchains and Regulation: Why Open Matters"
+msgstr "Peter Van Valkenburgh: Το Blockchain και τα Νομικά: Γιατί η Ανοιχτότητα Μετρά"
+
+#: index.php:109
+msgid ""
+"Christoph Sorge: Legal requirements for cryptographic security: Necessity, "
+"annoyance, or both?"
+msgstr ""
+"Christoph Sorge: Νομικές απαιτήσεις για κρυπτογραφική ασφάλεια: Αναγκαιότητα, ενόχληση ή και "
+"τα δύο; (ο τίτλος ενδέχεται να αλλάξει)"
+
+#: index.php:113
+msgid "Dionysis Zindros: Writing smart contracts in bitcoin"
+msgstr "Διονύσης Ζήνδρος: Γράφοντας έξυπνα συμβόλαια στο bitcoin"
+
+#: index.php:117
+msgid "Darryl McAdams: Writing Smart Contracts on Plutus "
+msgstr "Darryl McAdams: Γράφοντας Έξυπνα Συμβόλαια στο Plutus"
+
+#: index.php:121
+msgid "Panel: The future of Cryptography &amp; Law"
+msgstr "Το μέλλον της Κρυπτογραφίας & της Νομικής"
+
+#: index.php:125
+msgid ""
+"The talks are high level targeting a\n"
 "                                    general public audience."
 msgstr ""
-"Οι ομιλίες θα είναι υψηλού επιπέδου και θα απευθύνονται\n"
+"Οι ομιλίες είναι υψηλού επιπέδου και απευθύνονται\n"
 "                                    σε γενικό κοινό."
 
-#: index.php:93
+#: index.php:128
 msgid ""
-"We have an excellent programme lined up\n"
-"                                    for our conference, and we hope to see "
-"you\n"
-"                                    in Athens."
-msgstr ""
-"Έχουμε ένα θαυμάσιο πρόγραμμα για το\n"
-"                                    συνέδριό μας και ελπίζουμε να σας\n"
-"                                    δούμε στην Αθήνα."
+"The conference had an excellent programme. The talks are now available "
+"online."
+msgstr "Το συνέδριο είχε ένα εξαιρετικό πρόγραμμα. Οι ομιλίες είναι τώρα "
+"διαθέσιμες online."
 
-#: index.php:98
-msgid "Tickets"
-msgstr "Εισιτήρια"
-
-#: index.php:99
-msgid ""
-"The conference is <strong>free of\n"
-"                                        charge</strong>. However, entrance "
-"to the venue is limited by\n"
-"                                        capacity to 150 people."
-msgstr ""
-"Το συνέδριο είναι <strong>δωρεάν</strong>. Όμως η είσοδος στο συνέδριο είναι "
-"περιορισμένη στα 150 άτομα."
-
-#: index.php:104
-msgid "We have increased the capacity of the venue to 150 tickets."
-msgstr "Μόλις αυξήσαμε τη χωρητικότητα του συνεδρίου σε 150 άτομα."
-
-#: index.php:107
-msgid "Please book soon to avoid disappointment."
-msgstr "Παρακαλούμε κλείστε νωρίς για να μην απογοητευτείτε."
-
-#: index.php:112
-msgid "Reserve your ticket"
-msgstr "Κλείστε το εισιτήριό σας"
-
-#: index.php:120
+#: index.php:134
 msgid "Invited Speakers"
 msgstr "Προσκεκλημένοι Ομιλητές"
 
-#: index.php:122
+#: index.php:136
 msgid ""
 "Four of the world's experts on Smart\n"
-"                                    Contracts will be speaking in our "
-"invited\n"
+"                                    Contracts spoke in our invited\n"
 "                                    talks capturing different aspects of\n"
 "                                    cryptography and law."
 msgstr ""
-"Τέσσερις από τους ανά τον κόσμο ειδικούς στα Έξυπνα Συμβόλαια θα μιλήσουν "
+"Τέσσερις από τους ανά τον κόσμο ειδικούς στα Έξυπνα Συμβόλαια μίλησαν "
 "στις προσκεκλημένες ομιλίες που περιγράφουν διαφορετικές πτυχές της "
 "κρυπτογραφίας και της νομικής επιστήμης."
 
-#: index.php:131 index.php:133 index.php:290
+#: index.php:145 index.php:147 index.php:302
 msgid "Aggelos Kiayias"
 msgstr "Άγγελος Κιαγιάς"
 
-#: index.php:134
+#: index.php:148
 msgid ""
 "Prof. Aggelos Kiayias is Chair in Cybersecurity and Privacy and director of "
 "the Blockchain Technology Lab at the University of Edinburgh, UK, Associate "
@@ -155,7 +165,7 @@ msgstr ""
 "στο Πανεπιστήμιο του Κονέκτικατ. Είναι επίσης επικεφαλής επιστήμονας στην "
 "εταιρεία blockchains IOHK."
 
-#: index.php:143
+#: index.php:157
 msgid ""
 "Prof. Burkhard Schafer is Professor of Computational Legal Theory and "
 "director of the SCRIPT Centre for IT and IP law at the University of "
@@ -168,7 +178,7 @@ msgstr ""
 "συνιδρυτής και διευθυντής στο Κέντρο Joseph Bell για Νομική Συλλογιστική και "
 "Εγκληματολογική Στατιστική."
 
-#: index.php:152
+#: index.php:166
 msgid ""
 "Prof. Dr. Ing. Christoph\n"
 "                                                Sorge is the holder of the\n"
@@ -205,7 +215,7 @@ msgstr ""
 "συνεργάτης του Γερμανικού Ινστιτούτου Ερευνών Spreyer για τη Δημόσια "
 "Διοίκηση."
 
-#: index.php:173
+#: index.php:187
 msgid ""
 "Peter is Director of\n"
 "                                                Research at Coin Center, "
@@ -268,11 +278,11 @@ msgstr ""
 "ιδιωτικότητα, την παρακολούθηση και τη νομοθεσία περί ψηφιακών πνευματικών "
 "δικαιωμάτων."
 
-#: index.php:206 index.php:319
+#: index.php:220 index.php:332
 msgid "Writing Smart Contracts"
 msgstr "Γράφοντας Έξυπνα Συμβόλαια"
 
-#: index.php:208
+#: index.php:222
 msgid ""
 "How do you actually write a smart\n"
 "                                    contract? And what is the future of "
@@ -286,7 +296,7 @@ msgstr ""
 "γλώσσας των έξυπνων συμβολαίων;                                    Δύο "
 "ερευνητές στον τομέα θα παρουσιάσουν μία εισαγωγή για μη ειδικούς:"
 
-#: index.php:221
+#: index.php:235
 msgid ""
 "Darryl is a type theorist at\n"
 "                                                IOHK in San Francisco, "
@@ -295,11 +305,11 @@ msgstr ""
 "Ο Darryl ειδικεύεται στη Θεωρία Τύπων στην IOHK στο San Francisco, Ηνωμένες "
 "Πολιτείες"
 
-#: index.php:228 index.php:230 index.php:317
+#: index.php:242 index.php:244 index.php:330
 msgid "Dionysis Zindros"
 msgstr "Διονύσης Ζήνδρος"
 
-#: index.php:231
+#: index.php:245
 msgid ""
 "Dionysis is a cryptography\n"
 "                                                PhD student at the "
@@ -308,11 +318,11 @@ msgid ""
 msgstr ""
 "Ο Διονύσης είναι διδακτορικός φοιτητής κρυπτογραφίας στο Πανεπιστήμιο Αθηνών."
 
-#: index.php:242
+#: index.php:256
 msgid "Panel discussion"
 msgstr "Συζήτηση στρογγυλής τραπέζης"
 
-#: index.php:244
+#: index.php:258
 msgid ""
 "What is the future of Cryptography and\n"
 "                                    Law? Insights from an academic, policy,\n"
@@ -331,7 +341,7 @@ msgstr ""
 "διευθυντής της IOHK και ένας από τους ιδρυτές "
 "του                                     Ethereum."
 
-#: index.php:258
+#: index.php:272
 msgid ""
 "Charles is the CEO of IOHK\n"
 "                                                in Colorado, United States"
@@ -340,18 +350,18 @@ msgstr ""
 "                                                στο Κολοράντο των Ηνωμένων "
 "Πολιτειών"
 
-#: index.php:270
+#: index.php:283
 msgid ""
-"The conference will be held at the\n"
+"The conference was held at the\n"
 "                                    five-star <a href=\"http://"
 "divanicaravelhotel.com/\">Divani Caravel hotel</a> in central\n"
 "                                    Athens."
 msgstr ""
-"Το συνέδριο θα λάβει χώρα στο πεντάστερο "
+"Το συνέδριο έλαβε χώρα στο πεντάστερο "
 "ξενοδοχείο                                    <a href=\"http://"
 "divanicaravelhotel.com/\">Divani Caravel</a> στο κέντρο της Αθήνας."
 
-#: index.php:276
+#: index.php:289
 msgid ""
 "The hotel is a 10-minute walk from the\n"
 "                                       Evangelismos metro station and also\n"
@@ -360,11 +370,11 @@ msgstr ""
 "Το ξενοδοχείο είναι 10 λεπτά περπάτημα από το μετρό του Ευαγγελισμού και "
 "προσβάσιμο επίσης με αυτοκίνητο ή λεωφορείο."
 
-#: index.php:288
+#: index.php:300
 msgid "Registration"
 msgstr "Εγγραφές"
 
-#: index.php:292
+#: index.php:304
 msgid ""
 "Cryptography\n"
 "                                                and Law, an Unexpected "
@@ -375,15 +385,15 @@ msgstr ""
 "Κρυπτογραφία και Νομική Επιστήμη: \n"
 "Μια Απροσδόκητη Συνάντηση που ήταν Προφανής Εξ' Αρχής"
 
-#: index.php:297 index.php:305 index.php:314
+#: index.php:309 index.php:317 index.php:321 index.php:327
 msgid "Slides"
 msgstr "Διαφάνειες"
 
-#: index.php:299 index.php:323
+#: index.php:311 index.php:336
 msgid "Coffee break"
 msgstr "Καφές"
 
-#: index.php:302
+#: index.php:314
 msgid ""
 "Blockchain assisted e-voting and the\n"
 "                                            law: Balancing transparency, "
@@ -394,15 +404,15 @@ msgstr ""
 "επιστήμη:                                            Μία ισορροπία ανάμεσα "
 "στη διαφάνεια, τη μυστικότητα και τη συμμετοχικότητα"
 
-#: index.php:308
+#: index.php:320
 msgid "Blockchains and Regulation: Why Open Matters"
 msgstr "Το Blockchain και τα Νομικά: Γιατί η Ανοιχτότητα Μετρά"
 
-#: index.php:310
+#: index.php:323
 msgid "Lunch break"
 msgstr "Φαγητό"
 
-#: index.php:313
+#: index.php:326
 msgid ""
 "Legal requirements for cryptographic security: Necessity, annoyance, or "
 "both? (tentative)"
@@ -410,27 +420,27 @@ msgstr ""
 "Νομικές απαιτήσεις για κρυπτογραφική ασφάλεια: Αναγκαιότητα, ενόχληση ή και "
 "τα δύο; (ο τίτλος ενδέχεται να αλλάξει)"
 
-#: index.php:321
+#: index.php:334
 msgid "Darryl Slides"
 msgstr "Διαφάνειες του Darryl"
 
-#: index.php:321
+#: index.php:334
 msgid "Dionysis Slides"
 msgstr "Διαφάνειες του Διονύση"
 
-#: index.php:325
+#: index.php:338
 msgid "Panel discussion:"
 msgstr "Συζήτηση στρογγυλής τραπέζης:"
 
-#: index.php:326
+#: index.php:339
 msgid "The future of Cryptography & Law"
 msgstr "Το μέλλον της Κρυπτογραφίας & της Νομικής"
 
-#: index.php:328
+#: index.php:341
 msgid "Closing remarks"
 msgstr "Λήξη"
 
-#: index.php:333
+#: index.php:346
 msgid ""
 "This event is made possible only\n"
 "                                            because of our wonderful "
@@ -438,31 +448,32 @@ msgid ""
 "                                            partners."
 msgstr "Αυτή η ημερίδα είναι εφικτή χάρη στους υπέροχους χρηματοδότες μας"
 
-#: index.php:336
+#: index.php:349
 msgid "Thank you!"
 msgstr "Ευχαριστούμε!"
 
-#: index.php:341
+#: index.php:354
 msgid "The ERC logo"
 msgstr "Το λογότυπο του ERC"
 
-#: index.php:353
+#: index.php:366
 msgid "Open access"
 msgstr "Ανοιχτή πρόσβαση"
 
-#: index.php:355
+#: index.php:368
 msgid ""
 "We believe everyone should have access\n"
 "                                    to knowledge. That's why admission to "
 "the\n"
-"                                    conference is completely free. However,\n"
-"                                    bitcoin donations are always welcome."
+"                                    conference was completely free. Bitcoin\n"
+"                                    donations for future conferences are "
+"always welcome."
 msgstr ""
 "Πιστεύουμε ότι όλοι πρέπει να έχουν πρόσβαση στη γνώση. Γι' αυτό η είσοδος "
-"στο συνέδριο είναι εντελώς δωρεάν. Παρ' όλα αυτά, οι δωρεές σε bitcoin είναι "
+"στο συνέδριο ήταν εντελώς δωρεάν. Οι δωρεές σε bitcoin για επόμενα συνέδρια είναι "
 "πάντα ευπρόσδεκτες."
 
-#: index.php:361
+#: index.php:374
 msgid ""
 "<a href=\"bitcoin:16ETtvZ8zMBMrJwWhpnhPdeMEQNnLBfZ5n\">Donate\n"
 "                                    bitcoin</a>\n"
@@ -478,22 +489,22 @@ msgstr ""
 "περισσότερα συνέδρια στο μέλλον.                                    <br /"
 ">Εκτιμούμε ιδιαίτερα την υποστήριξή σας!"
 
-#: index.php:367
+#: index.php:380
 msgid ""
 "We actively engage in open research and\n"
 "                                    are committed to providing open access "
 "to\n"
 "                                    everyone, even if they can't make it.\n"
-"                                    Videos of all talks and slides will be\n"
+"                                    Videos of all talks and slides are\n"
 "                                    published under a Creative Commons 4.0\n"
 "                                    Attribution license."
 msgstr ""
 "Δραστηριοποιούμαστε ενεργά στην ανοιχτή έρευνα και δεσμευόμαστε να "
 "προσφέρουμε ανοιχτή πρόσβαση σε όλους, ακόμα και αν δεν μπορούν να έρθουν. "
-"Οι βιντεοσκοπήσεις των ομιλιών και οι διαφάνειες θα δημοσιευθούν κάτω από "
+"Οι βιντεοσκοπήσεις των ομιλιών και οι διαφάνειες δημοσιεύονται κάτω από "
 "την άδεια Creative Commons 4.0 Attribution."
 
-#: index.php:374
+#: index.php:387
 msgid ""
 "We welcome diversity and are striving to\n"
 "                                    offer equal opportunities to all\n"
@@ -512,27 +523,27 @@ msgstr ""
 "είναι για όλους, ανεξαρτήτως φύλου, σεξουαλικού προσανατολισμού, αναπηρίας, "
 "εξωτερικής εμφάνισης, μεγέθους σώματος, εθνικότητας ή θρησκείας."
 
-#: index.php:386
+#: index.php:399
 msgid "Free admission"
 msgstr "Δωρεάν είσοδος"
 
-#: index.php:390
+#: index.php:403
 msgid "Everyone welcome"
 msgstr "Όλοι ευπρόσδεκτοι"
 
-#: index.php:401
+#: index.php:414
 msgid "Cryptography & Security Lab"
 msgstr "Εργαστήριο Κρυπτογραφίας & Ασφάλειας"
 
-#: index.php:402
+#: index.php:415
 msgid "University of Athens."
 msgstr "Πανεπιστήμιο Αθηνών."
 
-#: index.php:402
+#: index.php:415
 msgid "Some rights reserved."
 msgstr "Ελεύθερο υλικό."
 
-#: index.php:403
+#: index.php:416
 msgid ""
 "This conference is licensed under <a href=\"https://creativecommons.org/"
 "licenses/by/4.0/\">Creative\n"
@@ -542,14 +553,45 @@ msgstr ""
 "\">Creative\n"
 "                                          Commons 4.0 Attribution</a>."
 
-#: index.php:407
+#: index.php:420
 msgid "Design: "
 msgstr "Σχεδιασμός: "
 
-#: index.php:408
+#: index.php:421
 msgid "Photos: "
 msgstr "Φωτογραφίες: "
 
-#: index.php:411
+#: index.php:424
 msgid "Icons: "
 msgstr "Εικονίδια: "
+
+#~ msgid ""
+#~ "We have an excellent programme lined up\n"
+#~ "                                    for our conference, and we hope to "
+#~ "see you\n"
+#~ "                                    in Athens."
+#~ msgstr ""
+#~ "Έχουμε ένα θαυμάσιο πρόγραμμα για το\n"
+#~ "                                    συνέδριό μας και ελπίζουμε να σας\n"
+#~ "                                    δούμε στην Αθήνα."
+
+#~ msgid "Tickets"
+#~ msgstr "Εισιτήρια"
+
+#~ msgid ""
+#~ "The conference is <strong>free of\n"
+#~ "                                        charge</strong>. However, "
+#~ "entrance to the venue is limited by\n"
+#~ "                                        capacity to 150 people."
+#~ msgstr ""
+#~ "Το συνέδριο είναι <strong>δωρεάν</strong>. Όμως η είσοδος στο συνέδριο "
+#~ "είναι περιορισμένη στα 150 άτομα."
+
+#~ msgid "We have increased the capacity of the venue to 150 tickets."
+#~ msgstr "Μόλις αυξήσαμε τη χωρητικότητα του συνεδρίου σε 150 άτομα."
+
+#~ msgid "Please book soon to avoid disappointment."
+#~ msgstr "Παρακαλούμε κλείστε νωρίς για να μην απογοητευτείτε."
+
+#~ msgid "Reserve your ticket"
+#~ msgstr "Κλείστε το εισιτήριό σας"
