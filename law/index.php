@@ -87,7 +87,42 @@
                                     interdisciplinary field merging
                                     Cryptography and Law.') ?></p>
 
-                                    <p><?= _('The talks will be high level targeting a
+                                    <p><?= _('Watch the programme online now') ?></p>
+
+                                    <p>
+                                        <strong><a href='https://www.youtube.com/watch?v=zbeoavjJoko&list=PLIBqjv2K77LUz-HTimrEsMjEXvc04WYsw'>
+                                        Watch whole conference as a YouTube playlist</a></strong>.
+                                    </p>
+
+                                    <h3><?= _('Aggelos Kiayias: Cryptography and Law, an Unexpected Encounter that was Obvious all Along') ?></h3>
+
+                                    <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/zbeoavjJoko?list=PLIBqjv2K77LUz-HTimrEsMjEXvc04WYsw?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+
+                                    <h3><?= _('Burkhard Schafer: Blockchain assisted e-voting and the law') ?></h3>
+
+                                    <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/xk8OGRTTcCY?list=PLIBqjv2K77LUz-HTimrEsMjEXvc04WYsw?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+
+                                    <h3><?= _('Peter Van Valkenburgh: Blockchains and Regulation: Why Open Matters') ?></h3>
+
+                                    <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/zVA3LsbxvDI?list=PLIBqjv2K77LUz-HTimrEsMjEXvc04WYsw?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+
+                                    <h3><?= _('Christoph Sorge: Legal requirements for cryptographic security: Necessity, annoyance, or both?') ?></h3>
+
+                                    <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/7uLObGAG7m4?list=PLIBqjv2K77LUz-HTimrEsMjEXvc04WYsw?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+
+                                    <h3><?= _('Dionysis Zindros: Writing smart contracts in bitcoin') ?></h3>
+
+                                    <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/IbKgeN3bd80?list=PLIBqjv2K77LUz-HTimrEsMjEXvc04WYsw?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+
+                                    <h3><?= _('Darryl McAdams: Writing Smart Contracts on Plutus ') ?></h3>
+
+                                    <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/Fs2S2wm7aEM?list=PLIBqjv2K77LUz-HTimrEsMjEXvc04WYsw?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+
+                                    <h3><?= _('Panel: The future of Cryptography &amp; Law') ?></h3>
+
+                                    <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/s1iRl6CTHXM?list=PLIBqjv2K77LUz-HTimrEsMjEXvc04WYsw?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+
+                                    <p><?= _('The talks are high level targeting a
                                     general public audience.') ?></p>
 
                                     <p><?= _('The conference had an excellent programme. The talks are now available online.') ?></p>
