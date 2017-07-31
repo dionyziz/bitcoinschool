@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-08 18:17+0300\n"
+"POT-Creation-Date: 2017-07-31 22:28+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -435,6 +435,17 @@ msgstr "Αυτή η ημερίδα είναι εφικτή χάρη στους �
 #: index.php:345
 msgid "Thank you!"
 msgstr "Ευχαριστούμε!"
+
+#: index.php:346
+#, fuzzy
+msgid ""
+"The Smart Contracts Day conference was organized by the Crypto.Sec lab at "
+"the University of Athens. Supported by ERC project CODAMODA, project number "
+"259152."
+msgstr ""
+"Η Ημερίδα για Έξυπνα Συμβόλαια διοργανώθηκε από το εργαστήριο\n"
+"Crypto.Sec στο Πανεπιστήμιο Αθήνων. Υποστηριχθήκαμε από το ERC project "
+"CODAMODA με αριθμό 259152."
 
 #: index.php:350
 msgid "The ERC logo"

@@ -339,11 +339,11 @@
 
                                     <div class="features">
                                         <article>
-                                            <p<?= _('This event is made possible only
+                                            <p><?= _('This event is made possible only
                                             because of our wonderful funding
-                                            partners.') ?>>
+                                            partners.') ?></p>
                                             <strong><?= _('Thank you!') ?></strong></p>
-
+                                            <p><?= _('The Smart Contracts Day conference was organized by the Crypto.Sec lab at the University of Athens. Supported by ERC project CODAMODA, project number 259152.') ?></p>
                                             <a href='https://erc.europa.eu/' class='image'>
                                                 <img
                                                 src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/European_Research_Council_logo.svg/339px-European_Research_Council_logo.svg.png"
